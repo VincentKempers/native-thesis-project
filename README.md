@@ -4,7 +4,7 @@ This is an native application that will use an OCR to read out text and analyse 
 This application is to help the people who have difficulties reading and writing on the dutch standard level.
 It will help them to read official documents and official forms which use difficult language (sometimes on purpose).
 
-_the goal of this project is not to teach but to give the people stability and independency_
+> _the goal of this project is not to teach but to give the people stability and independency_
 
 > A native application built with NativeScript-Vue
 
