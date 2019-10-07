@@ -25,3 +25,22 @@ tns debug <platform>
 tns build <platform> --env.production
 
 ```
+
+## For local NativeScript Sidekick
+
+### install dependencies
+npm install
+
+### open nativescript sidekick
+- [ ] open the application via NativeScript Sidekick
+- [ ] Set local instead of Cloud
+- [ ] Hot module replacement off
+
+### Virtual device
+Run it on a virtual device
+- select a supported device (everything above iphone SE)
+- Run on device
+- MAGIC ( _running on device_ )....
+- Xcode will open
+- run on device again
+- application will install on virtual device and open
